@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\bin\Debug\net8.0\KoiFishFarmShop.deps.json
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\bin\Debug\net8.0\KoiFishFarmShop.runtimeconfig.json
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\bin\Debug\net8.0\KoiFishFarmShop.dll
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\bin\Debug\net8.0\KoiFishFarmShop.pdb
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\obj\Debug\net8.0\KoiFishFarmShop.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\obj\Debug\net8.0\KoiFishFarmShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\obj\Debug\net8.0\KoiFishFarmShop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\obj\Debug\net8.0\KoiFishFarmShop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\obj\Debug\net8.0\KoiFishFarmShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\obj\Debug\net8.0\KoiFishFarmShop.dll
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\obj\Debug\net8.0\refint\KoiFishFarmShop.dll
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\obj\Debug\net8.0\KoiFishFarmShop.pdb
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\obj\Debug\net8.0\KoiFishFarmShop.genruntimeconfig.cache
+C:\Users\Admin\source\repos\SWP391\KoiFishFarmShop\obj\Debug\net8.0\ref\KoiFishFarmShop.dll

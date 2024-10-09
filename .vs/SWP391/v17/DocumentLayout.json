@@ -1,113 +1,149 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\SWP391\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\models\\koifish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\koifish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\controllers\\deliverycompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\deliverycompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\models\\koifishfarmshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\koifishfarmshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshopapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshopapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshopapi\\controllers\\koifishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\koifishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshopapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\koifishfarmshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\koifishfarmshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\repositories\\koifishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\koifishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\repositories\\deliverycompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\deliverycompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\repositories\\koifishcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\repositories\\koifishcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\koifishcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshopapi\\controllers\\koifishcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\koifishcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\repositories\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshopapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\models\\koifish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\koifish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\repositories\\koifishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\koifishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\models\\koifishgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\koifishgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\models\\koifishcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\koifishcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshopapi\\koifishfarmshopapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\koifishfarmshopapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshopapi\\koifishfarmshopapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\koifishfarmshopapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\models\\deliverycompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\models\\deliverycompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\deliverycompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\source\\repos\\swp391\\koifishfarmshop\\koifishfarmshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\controllers\\koifishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\koifishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\controllers\\koifishcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\controllers\\koifishcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\models\\koifishfarmshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\koifishfarmshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\models\\koifishgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\koifishgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\models\\koifishcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\koifishcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\koifishfarmshopapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\koifishfarmshopapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshopapi\\koifishfarmshopapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3DB94A66-6E60-486D-9E50-C7F7594B3D53}|KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj|solutionrelative:koifishfarmshopapi\\koifishfarmshopapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|c:\\users\\admin\\desktop\\submittogit\\koifishfarmshop\\koifishfarmshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6101254D-CF24-485D-9ABD-1F19C2124B4B}|KoiFishFarmShop\\KoiFishFarmShop.csproj|solutionrelative:koifishfarmshop\\koifishfarmshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -118,43 +154,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "KoiFishFarmShop.csproj",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\KoiFishFarmShop.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\KoiFishFarmShop.csproj",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\KoiFishFarmShop.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\KoiFishFarmShop.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\KoiFishFarmShop.csproj",
               "RelativeToolTip": "KoiFishFarmShop\\KoiFishFarmShop.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-02T15:36:19.017Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "KoiFishRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Repositories\\KoiFishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\KoiFishRepository.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\KoiFishRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Repositories\\KoiFishRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\KoiFishRepository.cs",
               "RelativeToolTip": "KoiFishFarmShop\\Repositories\\KoiFishRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T14:45:12.71Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "KoiFishGroup.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\KoiFishGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\KoiFishGroup.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\KoiFishGroup.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\KoiFishGroup.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\KoiFishGroup.cs",
               "RelativeToolTip": "KoiFishFarmShop\\Models\\KoiFishGroup.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,126 +197,227 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DeliveryCompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\DeliveryCompanyController.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\DeliveryCompanyController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\DeliveryCompanyController.cs",
+              "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\DeliveryCompanyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T08:49:42.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T06:11:12.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "KoiFishFarmShop\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "DeliveryCompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\DeliveryCompanyRepository.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\DeliveryCompanyRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\DeliveryCompanyRepository.cs",
+              "RelativeToolTip": "KoiFishFarmShop\\Repositories\\DeliveryCompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T08:48:28.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderDetailController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\OrderDetailController.cs",
-              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\OrderDetailController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\OrderDetailController.cs",
-              "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\OrderDetailController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T07:00:07.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Repositories\\OrderDetailRepository.cs",
-              "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\OrderDetailRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Repositories\\OrderDetailRepository.cs",
-              "RelativeToolTip": "KoiFishFarmShop\\Repositories\\OrderDetailRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T06:57:20.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T06:52:45.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "KoiFishFarmShop\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T06:49:01.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T06:06:05.226Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:04:00.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\FeedbackRepository.cs",
+              "RelativeToolTip": "KoiFishFarmShop\\Repositories\\FeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:59:51.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:58:02.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "KoiFishFarmShop\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:54:17.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:47:11.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "KoiFishFarmShop\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:41:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:38:55.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KoiFishFarmShopAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj",
+              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj",
+              "RelativeToolTip": "KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T05:37:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\ManagerRepository.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\ManagerRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\ManagerRepository.cs",
+              "RelativeToolTip": "KoiFishFarmShop\\Repositories\\ManagerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:28:30.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:00:07.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\OrderDetailRepository.cs",
+              "RelativeToolTip": "KoiFishFarmShop\\Repositories\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:57:20.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:52:45.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "KoiFishFarmShop\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:49:01.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "KoiFishCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\KoiFishCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\KoiFishCategoryController.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\KoiFishCategoryController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\KoiFishCategoryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\KoiFishCategoryController.cs",
               "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\KoiFishCategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T06:40:42.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T06:40:42.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "KoiFishCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Repositories\\KoiFishCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\KoiFishCategoryRepository.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\Repositories\\KoiFishCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Repositories\\KoiFishCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Repositories\\KoiFishCategoryRepository.cs",
               "RelativeToolTip": "KoiFishFarmShop\\Repositories\\KoiFishCategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T06:35:11.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T06:35:11.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "KoiFishFarmShopAPI",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj",
               "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj",
               "RelativeToolTip": "KoiFishFarmShopAPI\\KoiFishFarmShopAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-05T06:22:07.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "KoiFishFarmShopAPI.http",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\KoiFishFarmShopAPI.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\KoiFishFarmShopAPI.http",
               "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\KoiFishFarmShopAPI.http",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\KoiFishFarmShopAPI.http",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\KoiFishFarmShopAPI.http",
               "RelativeToolTip": "KoiFishFarmShopAPI\\KoiFishFarmShopAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -290,63 +425,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T05:57:33.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T05:57:33.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "KoiFishController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\KoiFishController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\KoiFishController.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Controllers\\KoiFishController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Controllers\\KoiFishController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Controllers\\KoiFishController.cs",
               "RelativeToolTip": "KoiFishFarmShopAPI\\Controllers\\KoiFishController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T05:57:29.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T05:57:29.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Program.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\Program.cs",
               "RelativeToolTip": "KoiFishFarmShopAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T05:53:33.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T05:53:33.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\appsettings.json",
               "RelativeDocumentMoniker": "KoiFishFarmShopAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShopAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShopAPI\\appsettings.json",
               "RelativeToolTip": "KoiFishFarmShopAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T05:42:51.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T05:42:51.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "KoiFishCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\KoiFishCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\KoiFishCategory.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\KoiFishCategory.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\KoiFishCategory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\KoiFishCategory.cs",
               "RelativeToolTip": "KoiFishFarmShop\\Models\\KoiFishCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -354,11 +485,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\Feedback.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\Feedback.cs",
               "RelativeToolTip": "KoiFishFarmShop\\Models\\Feedback.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -366,63 +497,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "KoiFish.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\KoiFish.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\KoiFish.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\KoiFish.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\KoiFish.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\KoiFish.cs",
               "RelativeToolTip": "KoiFishFarmShop\\Models\\KoiFish.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T05:23:48.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T05:23:48.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "KoiFishFarmShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\KoiFishFarmShopContext.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\KoiFishFarmShopContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\KoiFishFarmShopContext.cs",
+              "RelativeToolTip": "KoiFishFarmShop\\Models\\KoiFishFarmShopContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAywCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:29:59.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\Manager.cs",
+              "RelativeToolTip": "KoiFishFarmShop\\Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:29:57.926Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "KoiFishFarmShopContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\KoiFishFarmShopContext.cs",
-              "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\KoiFishFarmShopContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\KoiFishFarmShopContext.cs",
-              "RelativeToolTip": "KoiFishFarmShop\\Models\\KoiFishFarmShopContext.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAywCcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T03:29:59.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\Manager.cs",
-              "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\Manager.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\Manager.cs",
-              "RelativeToolTip": "KoiFishFarmShop\\Models\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T03:29:57.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\UnitOfWork.cs",
               "RelativeToolTip": "KoiFishFarmShop\\UnitOfWork.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCsAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T14:49:03.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T14:49:03.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Base\\GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Base\\GenericRepository.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\Base\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Base\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Base\\GenericRepository.cs",
               "RelativeToolTip": "KoiFishFarmShop\\Base\\GenericRepository.cs",
               "ViewState": "AgIAAGwAAAAAAAAAAAApwIUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -430,11 +557,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\OrderDetail.cs",
               "RelativeToolTip": "KoiFishFarmShop\\Models\\OrderDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -442,24 +569,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\Order.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\Order.cs",
               "RelativeToolTip": "KoiFishFarmShop\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T11:30:12.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T11:30:12.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 13,
               "Title": "DeliveryCompany.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\DeliveryCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\DeliveryCompany.cs",
               "RelativeDocumentMoniker": "KoiFishFarmShop\\Models\\DeliveryCompany.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\Models\\DeliveryCompany.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\Models\\DeliveryCompany.cs",
               "RelativeToolTip": "KoiFishFarmShop\\Models\\DeliveryCompany.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -16,12 +16,16 @@ namespace KoiFishFarmShop
         private KoiFishCategoryRepository _koiFishCategoryRepository;
         private OrderRepository _orderRepository;
         private OrderDetailRepository _orderDetailRepository;
-        private UserRepository _userRepository;
+        private ManagerRepository _managerRepository;
+        private CategoryRepository _categoryRepository;
+        private CustomerRepository _customerRepository;
+        private FeedbackRepository _feedbackRepository;
+        private DeliveryCompanyRepository _deliveryCompanyRepository;
         public UnitOfWork() => _context = new KoiFishFarmShopContext();
 
         public KoiFishRepository KoiFishRepository
-        {  
-            get { return _koiFishRepository ??= new KoiFishRepository(_context); } 
+        {
+            get { return _koiFishRepository ??= new KoiFishRepository(_context); }
         }
 
         public KoiFishCategoryRepository KoiFishCategoryRepository
@@ -39,9 +43,30 @@ namespace KoiFishFarmShop
             get { return _orderDetailRepository ??= new OrderDetailRepository(_context); }
         }
 
-        public UserRepository UserRepository
+        public ManagerRepository ManagerRepository
         {
-            get { return _userRepository ??= new UserRepository(_context); }
+            get { return _managerRepository ??= new ManagerRepository(_context); }
+        }
+
+        public CategoryRepository CategoryRepository
+        {
+            get { return _categoryRepository ??= new CategoryRepository(_context); }
+        }
+
+        public CustomerRepository CustomerRepository
+        {
+            get { return _customerRepository ??= new CustomerRepository(_context); }
+        }
+
+        public FeedbackRepository FeedbackRepository
+        {
+            get { return _feedbackRepository ??= new FeedbackRepository(_context); }
+
+        }
+
+        public DeliveryCompanyRepository DeliveryCompanyRepository
+        {
+            get { return _deliveryCompanyRepository ??= new DeliveryCompanyRepository(_context); }
         }
     }
 }

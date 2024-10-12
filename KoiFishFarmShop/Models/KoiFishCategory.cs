@@ -5,11 +5,11 @@ namespace KoiFishFarmShop.Models;
 
 public partial class KoiFishCategory
 {
-    public Guid Id { get; set; }
+    public int Id { get; set; }
 
-    public Guid? CategoryId { get; set; }
+    public int? CategoryId { get; set; }
 
-    public Guid? KoiFishId { get; set; }
+    public int? KoiFishId { get; set; }
 
     public virtual Category? Category { get; set; }
 

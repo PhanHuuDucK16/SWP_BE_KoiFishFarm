@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\KoiFishFarmShop.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\KoiFishFarmShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\KoiFishFarmShop.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\KoiFishFarmShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\KoiFishFarmShop.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\KoiFishFarmShop.csproj",
         "projectName": "KoiFishFarmShop",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\KoiFishFarmShop.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\KoiFishFarmShop.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\SubmitToGIT\\KoiFishFarmShop\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\SWP391\\KoiFishFarmShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

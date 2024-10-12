@@ -5,13 +5,13 @@ namespace KoiFishFarmShop.Models;
 
 public partial class OrderDetail
 {
-    public Guid Id { get; set; }
+    public int Id { get; set; }
 
-    public Guid? OrderId { get; set; }
+    public int? OrderId { get; set; }
 
-    public Guid? KoiFishId { get; set; }
+    public int? KoiFishId { get; set; }
 
-    public Guid? KoiFishGroupId { get; set; }
+    public int? KoiFishGroupId { get; set; }
 
     public int? Quantity { get; set; }
 

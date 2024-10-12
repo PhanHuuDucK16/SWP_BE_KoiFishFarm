@@ -5,7 +5,7 @@ namespace KoiFishFarmShop.Models;
 
 public partial class KoiFishGroup
 {
-    public Guid Id { get; set; }
+    public int Id { get; set; }
 
     public string? Name { get; set; }
 
@@ -19,7 +19,7 @@ public partial class KoiFishGroup
 
     public string? Status { get; set; }
 
-    public Guid? CreatorId { get; set; }
+    public int? CreatorId { get; set; }
 
     public virtual ICollection<OrderDetail> OrderDetails { get; set; } = new List<OrderDetail>();
 }

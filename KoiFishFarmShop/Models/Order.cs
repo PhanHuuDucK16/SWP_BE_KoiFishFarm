@@ -5,9 +5,9 @@ namespace KoiFishFarmShop.Models;
 
 public partial class Order
 {
-    public Guid Id { get; set; }
+    public int Id { get; set; }
 
-    public Guid? CustomerId { get; set; }
+    public int? CustomerId { get; set; }
 
     public int? Amount { get; set; }
 
@@ -25,7 +25,7 @@ public partial class Order
 
     public DateTime? CreateAt { get; set; }
 
-    public Guid? DeliveryCompanyId { get; set; }
+    public int? DeliveryCompanyId { get; set; }
 
     public virtual Customer? Customer { get; set; }
 

@@ -5,11 +5,11 @@ namespace KoiFishFarmShop.Models;
 
 public partial class Feedback
 {
-    public Guid Id { get; set; }
+    public int Id { get; set; }
 
-    public Guid? OrderId { get; set; }
+    public int? OrderId { get; set; }
 
-    public Guid? CustomerId { get; set; }
+    public int? CustomerId { get; set; }
 
     public string? Message { get; set; }
 
